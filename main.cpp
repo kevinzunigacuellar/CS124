@@ -26,7 +26,7 @@ int main() {
     assert(stocks.size() == 10143);
 
     // test : check calculation function
-    assert(getTradingFeeForMaxVolume(stocks) == 3300059);
+    assert(getTradingFeeForMaxVolume(stocks) ==3300059);
 
     return 0;
 }
